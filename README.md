@@ -14,6 +14,7 @@ Example:
 Solving Global alignment for s1= "TAGATA" , s2= "GTAGGCTTAAGGTTA"
 
 Global Alignment Matrix:
+
     -    -    T    A    G    A    T    A
     
     -    0   -1   -2   -3   -4   -5   -6 
