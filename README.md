@@ -51,18 +51,31 @@ Global Alignment Matrix:
     
     
 Best Fitting:  O(n*m)
+
 Fitting is the problem of fully considering s1 for any substring in s2. 
+
 TAGA-T-A
+
 TAGGCTTA
 
+
+
 Global Alignment:  O(n*m)
+
 Both strings must be fully considered .
+
 GTAGGCTTAAGGTTA
+
 -TAG----A---T-A
 
+
 Local Alignment: O(n*m)
+
 Considering all substrings of s1 and s2.
+
 TAG
+
 TAG
+
 
 Can be done in O(n) space at not cost to time with a clever solution 
