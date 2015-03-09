@@ -50,5 +50,5 @@ Global Alignment Matrix:
     A  -15  -13  -11   -9   -7   -5   -3 
     
     
-<img src="https://github.com/Mark-William-Schumacher/DataStructuresAndAlgorithms/blob/master/Images/localGlobalFitting.PNG" height=250px > 
+<img src="https://github.com/Mark-William-Schumacher/DataStructuresAndAlgorithms/blob/master/Images/localGlobalFitting.PNG" height=100px > 
 Can be done in O(n) space at not cost to time with a clever solution 
