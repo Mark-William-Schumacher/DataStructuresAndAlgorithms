@@ -15,6 +15,11 @@ Solving Global alignment for s1= "TAGATA" , s2= "GTAGGCTTAAGGTTA"
 
 
 
+
+
+
+
+
 Global Alignment Matrix:
 
     -    -    T    A    G    A    T    A
