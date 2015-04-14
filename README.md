@@ -13,6 +13,13 @@ GlobalAndLocalAlignment.java have some tester code written to solve some small s
 Example: 
 Solving Global alignment for s1= "TAGATA" , s2= "GTAGGCTTAAGGTTA"
 
+
+
+
+
+
+
+
 Global Alignment Matrix:
 
     -    -    T    A    G    A    T    A
@@ -53,3 +60,7 @@ Global Alignment Matrix:
 <img src="https://github.com/Mark-William-Schumacher/DataStructuresAndAlgorithms/blob/master/Images/localGlobalFitting.PNG" height=100px > 
 
 Can be done in O(n) space at not cost to time with a clever solution 
+
+## Local Alignment Theroy
+<img align="left" src="https://raw.githubusercontent.com/Mark-William-Schumacher/DataStructuresAndAlgorithms/master/Images/LocalAlignment.png" height=250px >
+In local alignment we are looking for any path which generates the large score in the entire matrix. To Achieve this, we can run the exact same algorythm (seen in GlobalAndLocalAlignment.java function LocalAlignment) the table is set up initalized to all 0's as is default in java. Now to achieve the Global alignment in our 0th column and 0th row we initialize with increasing numbers, this step is skipped in local alignment to achieve the alignment shown in the picture to the left.
