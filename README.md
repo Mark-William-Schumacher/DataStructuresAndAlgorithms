@@ -4,7 +4,7 @@ Practice for technical interviews, done in preparation for onsite interviews dur
 These are technical interview prep questions taken from Elements of a Programming interview http://elementsofprogramminginterviews.com/pdf/epi-light-1.4.10.pdf and leetcode.com 
 
 
-## Local and Global Alignment and Fitting Algorithms NEW*
+## Local and Global Alignment and Fitting Algorithms 
 
 <img src="https://github.com/Mark-William-Schumacher/DataStructuresAndAlgorithms/blob/master/Images/Local-GlobalAlignment.PNG" height=250px > 
 
