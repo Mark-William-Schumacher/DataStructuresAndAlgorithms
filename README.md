@@ -55,5 +55,5 @@ Global Alignment Matrix:
 Can be done in O(n) space at not cost to time with a clever solution 
 
 ## Local Alignment Theroy
-<img src="https://raw.githubusercontent.com/Mark-William-Schumacher/DataStructuresAndAlgorithms/master/Images/LocalAlignment.png" height=250px >
+<img align="right" src="https://raw.githubusercontent.com/Mark-William-Schumacher/DataStructuresAndAlgorithms/master/Images/LocalAlignment.png" height=250px >
 In local alignment we are looking for any path which generates the large score in the entire matrix. To Achieve this, we can run the exact same algorythm (seen in GlobalAndLocalAlignment.java function LocalAlignment) the table is set up initalized to all 0's as is default in java. Now to achieve the Global alignment in our 0th column and 0th row we initialize with increasing numbers, this step is skipped in local alignment to achieve the alignment shown in the picture above.
