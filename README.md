@@ -6,7 +6,7 @@ These are technical interview prep questions taken from Elements of a Programmin
 
 ## Local and Global Alignment and Fitting Algorithms 
 
-<img align="right" src="https://github.com/Mark-William-Schumacher/DataStructuresAndAlgorithms/blob/master/Images/Local-GlobalAlignment.PNG" height=250px > 
+<img src="https://github.com/Mark-William-Schumacher/DataStructuresAndAlgorithms/blob/master/Images/Local-GlobalAlignment.PNG" height=250px > 
 
 GlobalAndLocalAlignment.java have some tester code written to solve some small scale dynamic programming local/global alignment problems. Algorithms are O(nm) space / time. 
 
